@@ -62,7 +62,7 @@
     "lodash.isstring": "4.0.1",
     "lodash.sortby": "4.7.0",
     "nodemon": "2.0.2",
-    "nuxt": "2.11.0",
+    "nuxt": "3.4.3",
     "nuxt-i18n": "6.4.1",
     "opener": "1.5.1",
     "portfinder": "1.0.25",
